@@ -27,7 +27,7 @@ export default function HomePage(props) {
                 </div>
 
                 <p className="my-5 aboutText">
-                  I'm a full-stack web developer based in Manchester, UK with a
+                  I'm a full-stack web developer based in Gujrat, India with a
                   passion for building beautiful websites and complex
                   applications.
                 </p>
