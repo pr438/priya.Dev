@@ -378,7 +378,7 @@ export default function HomePage(props) {
                     </li>
                     <li>
                       <a
-                        href="https://github.com/bradypp"
+                        href="https://github.com/pr438"
                         rel="noopener noreferrer nofollow"
                         target="_blank"
                         variant="secondary"
